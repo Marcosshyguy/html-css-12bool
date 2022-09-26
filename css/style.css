@@ -8,15 +8,27 @@
     background-color: beige;
 }
 
+.pad-1{
+    padding: 1em;
+}
+
 .box{
     background: blueviolet;
     border: solid white 2px;
     text-align: center;
     vertical-align: middle;
-    height: 40px;
+    padding: 1em;
+    color: white;
 }
 
-.box p{
-    line-height: 40px;
+.box-nested{
+    background-color: green;
+    color:black;
+    padding: 2em;
+    border: solid white 2px;
+    text-align: center;
+    vertical-align: middle;
 }
+
+
 
