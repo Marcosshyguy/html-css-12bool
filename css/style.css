@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container-debug{
+    background-color: beige;
+}
+
+.box{
+    background: blueviolet;
+    border: solid white 2px;
+    text-align: center;
+    vertical-align: middle;
+    height: 40px;
+}
+
+.box p{
+    line-height: 40px;
+}
+
